@@ -1,0 +1,115 @@
+G1 RESULTS:
+
+Data for graph of length:  74338
+Degree:
+       Node  Degree Centrality
+0    godine           0.016600
+1    splitu           0.012995
+2     jedan           0.011542
+3     split           0.011313
+4  hrvatske           0.011179
+5     ljudi           0.010883
+6        im           0.010573
+7   vrijeme           0.010385
+8       dva           0.009417
+9      sati           0.009215
+
+Eigenvector centrality:
+       Node  Eigenvector Centrality
+0    splitu                0.120491
+1       ove                0.112552
+2     jedan                0.111993
+3       dva                0.103729
+4     ljudi                0.103036
+5       tri                0.100507
+6        im                0.093139
+7  hrvatske                0.092354
+8     treba                0.090152
+9      prvi                0.087008
+******************************************
+G2 RESULTS:
+
+Data for graph of length:  38896
+Degree:
+           Node  Degree Centrality
+0         ljudi           0.012058
+1        godine           0.012032
+2     hrvatskoj           0.009410
+3         jedan           0.009333
+4         split           0.008947
+5  koronavirusa           0.008227
+6      hrvatske           0.008022
+7            im           0.008022
+8       vrijeme           0.007482
+9           dva           0.007250
+
+Eigenvector centrality:
+           Node  Eigenvector Centrality
+0     hrvatskoj                0.164156
+1         ljudi                0.146652
+2         jedan                0.121082
+3         imaju                0.112248
+4           dva                0.105586
+5  koronavirusa                0.095063
+6           tri                0.094766
+7           ove                0.093362
+8          prvi                0.089945
+9            im                0.089435
+******************************************
+G3 RESULTS:
+
+Data for graph of length:  78993
+Degree:
+      Node  Degree Centrality
+0    ljudi           0.023243
+1    mjere           0.017825
+2  vrijeme           0.017116
+3    mjera           0.015774
+4       im           0.015533
+5    jedan           0.015407
+6    dalje           0.013305
+7    split           0.012913
+8   godine           0.012862
+9    način           0.012685
+
+Eigenvector centrality:
+        Node  Eigenvector Centrality
+0      ljudi                0.140627
+1      dalje                0.107303
+2      jedan                0.102346
+3  hrvatskoj                0.095919
+4        dva                0.095413
+5         im                0.094148
+6      treba                0.093986
+7    vrijeme                0.093816
+8        tri                0.092953
+9      imaju                0.090757
+******************************************
+G4 RESULTS:
+
+Data for graph of length:  115210
+Degree:
+        Node  Degree Centrality
+0     godine           0.020259
+1      ljudi           0.019434
+2      jedan           0.016778
+3  hrvatskoj           0.016327
+4         im           0.015155
+5    vrijeme           0.014721
+6   hrvatske           0.014634
+7        dva           0.013506
+8      split           0.013237
+9       toga           0.012811
+
+Eigenvector centrality:
+        Node  Eigenvector Centrality
+0      ljudi                0.117135
+1  hrvatskoj                0.115913
+2      jedan                0.113303
+3        ove                0.112315
+4        dva                0.104242
+5        tri                0.093005
+6      treba                0.091743
+7         im                0.089720
+8      dalje                0.083099
+9   hrvatske                0.081578

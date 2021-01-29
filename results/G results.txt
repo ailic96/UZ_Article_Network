@@ -1,0 +1,22 @@
+Basic graph info:
+Je li graf usmjeren? True
+Je li graf tezinski?: True
+
+Broj cvorova N u grafu: 215819
+Broj veza K u grafu: 1954261
+Broj ulaznih veza: 215819
+Broj izlaznih veza: 215819
+Prosjecan stupanj mreze: 1124
+Ukupna snaga grafa: 3383241.0
+Prosjecna snaga grafa: 15.676288927295557
+Broj povezanih komponenti grafa: 904
+Velicina najvece komponente grafa: 213867
+
+Broj cvorova N u najvecoj komponenti nakon odstranjivanja: 9652
+Broj veza K u najvecoj komponenti nakon odstranjivanja 566531
+Prosjecni najkraci put komponente 9652 iznosi: 2.7016184460549257
+Dijametar najveće komponente 9652 iznosi: 6
+
+Gustoća grafa: 4.195707708225807e-05
+Globalni koeficijent grupiranja: 0.04929746208502908
+Asortativnost s obzirom na stupanj cvora: -0.043469359634260844
